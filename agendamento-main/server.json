@@ -1,0 +1,106 @@
+{
+  "sala": [
+    {
+      "id": "Sala de Tecnologia",
+      "name": "Sala de Tecnologia",
+      "numeroDaSala": ""
+    },
+    {
+      "id": "Informatica 1",
+      "name": "Informatica 1",
+      "numeroDaSala": ""
+    },
+    {
+      "id": "Informatica 2",
+      "name": "Informatica 2",
+      "numeroDaSala": ""
+    },
+    {
+      "id": "Auditorio",
+      "name": "Auditorio",
+      "numeroDaSala": ""
+    }
+  ],
+  "aparelhos": [
+    {
+      "id": "Oculos VR",
+      "name": "Oculos VR"
+    },
+    {
+      "id": "Drone",
+      "name": "Drone"
+    },
+    {
+      "id": "Tablet",
+      "name": "Tablet"
+    },
+    {
+      "id": "Notebook",
+      "name": "Notebook"
+    },
+    {
+      "id": "Camera",
+      "name": "Camera"
+    },
+    {
+      "id": "Suporte Camera",
+      "name": "Suporte Camera"
+    }
+  ],
+  "usuario": [
+    {
+      "id": "d403",
+      "nome": "Arthur",
+      "email": "art@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "d94e",
+      "nome": "Admin",
+      "email": "admin@gmail.com",
+      "senha": "485610"
+    }
+  ],
+  "reservada": [
+    {
+      "id": "Sala de Tecnologia",
+      "dateTime": "2024-05-21T09:00:00.000Z",
+      "name": "arthur"
+    },
+    {
+      "id": "Sala de Tecnologia",
+      "dateTime": "2024-05-21T10:00:00.000Z",
+      "name": "arthur"
+    },
+    {
+      "id": "Sala de Tecnologia",
+      "dateTime": "2024-05-21T11:00:00.000Z",
+      "name": "arthur"
+    },
+    {
+      "id": "Informatica 1",
+      "dateTime": "2024-05-15T09:00:00.000Z",
+      "name": "arthur"
+    },
+    {
+      "id": "Informatica 1",
+      "dateTime": "2024-05-15T10:00:00.000Z",
+      "name": "arthur"
+    },
+    {
+      "id": "Informatica 1",
+      "dateTime": "2024-05-15T11:00:00.000Z",
+      "name": "arthur"
+    },
+    {
+      "id": "Informatica 1",
+      "dateTime": "2024-05-15T12:00:00.000Z",
+      "name": "arthur"
+    },
+    {
+      "id": "Informatica 1",
+      "dateTime": "2024-05-15T13:00:00.000Z",
+      "name": "arthur"
+    }
+  ]
+}
